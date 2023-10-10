@@ -1,12 +1,8 @@
 ## Hi there 👋
+# This is a project dedicated to the most entertaining multiplayer game Fortnite!!! 
 
-<!--
+Big wins, casinos, etc. meet right here!!!
 
-**Here are some ideas to get you started:**
+![image](https://github.com/oop-matmech/.github/assets/73172033/326105f5-dc0a-4e12-8ef9-04cef1f96f2f)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
